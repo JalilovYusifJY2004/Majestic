@@ -8,5 +8,6 @@ namespace Praktika.DAL
     {
         public AppDbContext(DbContextOptions<AppDbContext> options):base(options) { }
         public DbSet<Service> Services { get; set; }
+        public DbSet<Setting> Settings { get; set; }
     }
 }

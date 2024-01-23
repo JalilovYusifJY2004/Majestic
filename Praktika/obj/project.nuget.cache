@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RTGLSQ4CBBB37OgDHbJuXggUC7gRloDFApbjbaAzX7GkDEBmks+sbUoaGmH0+l+FqBvzC/jLhylzILEt5J9F3A==",
+  "dgSpecHash": "b2dm5x/HCi9TDkMeRE7CSG17zOvS18S6XpQ5PP+Q8BF6p35CO7CZ0SyXdWd4r/kG6fC9RZ0CH1ZKn5+u22bLUg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Zeynal\\Desktop\\Praktika\\Praktika.csproj",
+  "projectFilePath": "C:\\Users\\Zeynal\\Desktop\\Majestic\\Praktika\\Praktika.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Zeynal\\.nuget\\packages\\humanizer\\2.14.1\\humanizer.2.14.1.nupkg.sha512",
     "C:\\Users\\Zeynal\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",

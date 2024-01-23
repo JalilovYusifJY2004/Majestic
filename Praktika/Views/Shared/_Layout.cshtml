@@ -1,4 +1,10 @@
-﻿<!DOCTYPE html>
+﻿@using Praktika.Services;
+@inject LayoutService service
+@{
+    Dictionary<string, string> settings = await service.GetSettingAsync();
+}
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="utf-8">
