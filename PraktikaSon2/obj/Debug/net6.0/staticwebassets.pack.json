@@ -1,0 +1,685 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\admin\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\css\\style.css",
+      "PackagePath": "staticwebassets\\admin\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\admin\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\auth\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\admin\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\admin\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\admin\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\js\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\chart.js",
+      "PackagePath": "staticwebassets\\admin\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\admin\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\admin\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\admin\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\admin\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\admin\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\admin\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\js\\template.js",
+      "PackagePath": "staticwebassets\\admin\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\pages\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\charts\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\pages\\charts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\forms\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\pages\\forms\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\icons\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\pages\\icons\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\samples\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\tables\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\pages\\tables\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\ui-features\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\pages\\ui-features\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\admin\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\.DS_Store",
+      "PackagePath": "staticwebassets\\admin\\vendors\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\admin\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\admin\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog.html",
+      "PackagePath": "staticwebassets\\assets\\blog.html"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\insta-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\insta-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\insta-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\insta-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\insta-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\insta-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\insta-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\insta-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\insta-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\insta-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\insta-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\insta-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\recent-post-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\recent-post-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\recent-post-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\recent-post-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\blog\\recent-post-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\blog\\recent-post-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\css\\blog-single-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\blog-single-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\css\\blog-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\blog-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\css\\contact-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\contact-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\css\\service-style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\service-style.css"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\image\\Logo 4.png",
+      "PackagePath": "staticwebassets\\assets\\image\\Logo 4.png"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\image\\background.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\image\\foot-logo.jpg",
+      "PackagePath": "staticwebassets\\assets\\image\\foot-logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\js\\map.js",
+      "PackagePath": "staticwebassets\\assets\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\js\\script.js",
+      "PackagePath": "staticwebassets\\assets\\js\\script.js"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\logos\\Logo 1.png",
+      "PackagePath": "staticwebassets\\assets\\logos\\Logo 1.png"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\logos\\Logo 4.png",
+      "PackagePath": "staticwebassets\\assets\\logos\\Logo 4.png"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\logos\\Logo2.png",
+      "PackagePath": "staticwebassets\\assets\\logos\\Logo2.png"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\logos\\logo 3.png",
+      "PackagePath": "staticwebassets\\assets\\logos\\logo 3.png"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\19839b47-b8f9-4f70-81b1-977186fe8dc9WhatsApp Şəkil 2023-12-12 saat 20.42.18_6a2d5dc2.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\19839b47-b8f9-4f70-81b1-977186fe8dc9WhatsApp Şəkil 2023-12-12 saat 20.42.18_6a2d5dc2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\brochures-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\brochures-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\brochures.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\brochures.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\bussines-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\bussines-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\bussines-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\bussines-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\bussines-card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\bussines-card-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\bussines-card-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\bussines-card-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\bussines-card-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\bussines-card-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\bussines-card-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\bussines-card-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\bussines-card.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\bussines-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\happy-client-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\happy-client-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\happy-client-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\happy-client-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\happy-client-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\happy-client-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\happy-client-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\happy-client-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\happy-client.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\happy-client.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\our-team-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\our-team-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\our-team-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\our-team-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\our-team-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\our-team-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\our-team-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\our-team-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\our-team-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\our-team-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\our-team.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\our-team.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\post-card-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\post-card-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\post-card-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\post-card-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\post-card-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\post-card-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\post-card-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\post-card-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\post-card-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\post-card-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\max-image\\post-card.jpg",
+      "PackagePath": "staticwebassets\\assets\\max-image\\post-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\service\\brochure.jpg",
+      "PackagePath": "staticwebassets\\assets\\service\\brochure.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\service\\bussines-card.jpg",
+      "PackagePath": "staticwebassets\\assets\\service\\bussines-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\service\\post-card-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\service\\post-card-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\service\\post-card.jpg",
+      "PackagePath": "staticwebassets\\assets\\service\\post-card.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Zeynal\\Desktop\\PraktikaSon2\\wwwroot\\assets\\service\\posters.jpg",
+      "PackagePath": "staticwebassets\\assets\\service\\posters.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.PraktikaSon2.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.PraktikaSon2.props",
+      "PackagePath": "build\\PraktikaSon2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.PraktikaSon2.props",
+      "PackagePath": "buildMultiTargeting\\PraktikaSon2.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.PraktikaSon2.props",
+      "PackagePath": "buildTransitive\\PraktikaSon2.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

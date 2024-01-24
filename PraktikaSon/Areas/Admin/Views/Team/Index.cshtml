@@ -1,0 +1,64 @@
+﻿@using PraktikaSon.Models;
+
+@model List<Team>
+@{
+    int count = 0;
+}
+
+<div class="col-lg-12 grid-margin stretch-card">
+    <div class="card">
+        <div class="card-body">
+            <h4 class="card-title">Create Table</h4>
+            <a asp-action="Create" asp-controller="team" class="btn btn-success">Create</a>
+            <div class="table-responsive">
+                <table class="table table-striped">
+                    <thead>
+                        <tr>
+                            <th>
+                                Count
+                            </th>
+                            <th>
+                                Name
+                            </th>
+                            <th>
+                                Description
+                            </th>
+                            <th>
+                                Image
+                            </th>
+                            <th>
+                                Settings
+                            </th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        @foreach (Team team in Model)
+                        {
+                            count++;
+                            <tr>
+
+
+                                <td>
+                                    @count
+                                </td>
+                                <td>
+                                    @team.Name
+                                </td>
+                                <td>
+                                    @team.Description
+                                </td>
+                                <td>
+                                    <img src="~/assets/images/featured-cars/@team.Image" alt="image" />
+                                </td>
+                                <td>
+                                    <a asp-action="Update" asp-controller="team" asp-route-id="@team.Id" class="btn btn-success">Update</a>
+                                    <a asp-action="Delete" asp-controller="team" asp-route-id="@team.Id" class="btn btn-success">Delete</a>
+                                </td>
+                            </tr>
+                        }
+                    </tbody>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

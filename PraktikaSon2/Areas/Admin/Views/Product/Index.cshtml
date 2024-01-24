@@ -1,0 +1,64 @@
+﻿@using PraktikaSon2.Models;
+ 
+ @model List<Product>
+
+@{
+    int count = 0;
+}
+
+<div class="col-lg-12 grid-margin stretch-card">
+              <div class="card">
+                <div class="card-body">
+                  <h4 class="card-title">Create Table</h4>
+            <a asp-action="Create" asp-contoller="product"  class="btn btn-success">Create</a>
+                  <div class="table-responsive">
+                    <table class="table table-striped">
+                      <thead>
+                        <tr>
+                          <th>
+                            NO
+                          </th>
+                          <th>
+                            First name
+                          </th>
+                          <th>
+                         Price
+                          </th>
+                          <th>
+                        images
+                          </th>
+                          <th>
+                        Settings
+                          </th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                  @foreach (Product product in Model)
+                        {
+                            count++;
+                            <tr>
+                                <td>
+                                  @count
+                                </td>
+                                <td>
+                                    @product.Name
+                                </td>
+                                <td>
+                                  @product.Price
+                                </td>
+                                <td class="py-1">
+                                    <img src="~/assets/max-image/@product.Image" alt="image" />
+                                </td>
+                                <td>
+                             <a asp-action="Update" asp-contoller="product" asp-route-id="@product.Id" class="btn btn-success">Update</a>
+                                    <a asp-action="delete" asp-contoller="product" asp-route-id="@product.Id" class="btn btn-success">Delete</a>
+                                </td>
+                            </tr>
+                        }
+
+                      </tbody>
+                    </table>
+                  </div>
+                </div>
+              </div>
+            </div>
